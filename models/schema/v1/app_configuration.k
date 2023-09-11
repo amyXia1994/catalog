@@ -1,7 +1,6 @@
 import models.schema.v1.workload as wl
 import models.schema.v1.trait as t
 import models.schema.v1.accessories.database as db
-import models.schema.v1.workload.secret as sec
 import models.schema.v1.monitoring as m
 
 schema AppConfiguration:
